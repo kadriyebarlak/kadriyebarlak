@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img width="1024" src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/poppy-wildflower-california-orange.jpg">
 
 
