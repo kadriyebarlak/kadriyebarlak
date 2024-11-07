@@ -1,4 +1,4 @@
-<img style="width:100%; height:250px; object-fit: cover; object-position: top;" src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/poppy-wildflower-california-orange.jpg">
+<img src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/poppy-wildflower-california-orange.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
