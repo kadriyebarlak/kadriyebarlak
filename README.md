@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
 
-I am a software engineer specializing in backend development. I aim to bring positive energy to both my work and life. Let’s connect and create something amazing together! 🌾🍃
+I am a software engineer specializing in backend development. I aim to bring positive energy to everything I do. 🌾🍃
 
 
 
