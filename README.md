@@ -1,14 +1,7 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/IMG_0010_resized_fixed_height.jpg" alt="Profile Image" width="150">
-    </td>
-    <td>
-      <h1>Hi 👋, I'm Kadriye!</h1>
-      <p>I am a software engineer.</p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/IMG_0010_resized_fixed_height.jpg">
+
+
+<h1 align="center">Hi 👋, I'm Kadriye!</h1>
 
 <!--
 **kadriyebarlak/kadriyebarlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
