@@ -1,4 +1,4 @@
-<img width="1024" src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/IMG_0010 4.jpg">
+<img width="1024" src="https://github.com/kadriyebarlak/kadriyebarlak/blob/main/images/IMG_6607 2.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
