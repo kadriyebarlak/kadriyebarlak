@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
 
-I'm a backend engineer with a passion for building meaningful, efficient software.  
+I'm a backend engineer with a passion for building high-impact, well-architected software.  
 
 Lately, I've been exploring AI integrations and modern developer tools to stay at the edge of technology.  
 
