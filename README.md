@@ -11,7 +11,7 @@ Beyond code, I care deeply about emotional clarity, creative thinking, and posit
 
 🌍 Currently based in Istanbul  
 🧠 Passionate about learning through building — my curiosity is my roadmap  
-📚 Building a life and a career I love — one commit at a time  
+🌸 Building a life and a career I love — one commit at a time  
 
 
 <!--
