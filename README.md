@@ -3,14 +3,15 @@
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
 
-I'm a backend engineer with a passion for building meaningful, efficient software.
-Lately, I've been exploring AI integrations and modern developer tools to stay at the edge of technology.
+I'm a backend engineer with a passion for building meaningful, efficient software.  
 
-Beyond code, I care deeply about emotional clarity, creative thinking, and positive energy — and I bring that into every project I touch. 🌱
+Lately, I've been exploring AI integrations and modern developer tools to stay at the edge of technology.  
 
-🌍 Currently based in Istanbul
-🧠 Passionate about learning through building — my curiosity is my roadmap
-📚 Building a life and a career I love — one commit at a time
+Beyond code, I care deeply about emotional clarity, creative thinking, and positive energy — and I bring that into every project I touch. 🌱  
+
+🌍 Currently based in Istanbul  
+🧠 Passionate about learning through building — my curiosity is my roadmap  
+📚 Building a life and a career I love — one commit at a time  
 
 
 <!--
