@@ -3,8 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Kadriye!</h1>
 
-I am a software engineer specializing in backend development. I aim to bring positive energy to everything I do. 🌾🍃
+I'm a backend engineer with a passion for building meaningful, efficient software.
+Lately, I've been exploring AI integrations and modern developer tools to stay at the edge of technology.
 
+Beyond code, I care deeply about emotional clarity, creative thinking, and positive energy — and I bring that into every project I touch. 🌱
+
+🌍 Currently based in Istanbul
+🧠 Passionate about learning through building — my curiosity is my roadmap
+📚 Building a life and a career I love — one commit at a time
 
 
 <!--
