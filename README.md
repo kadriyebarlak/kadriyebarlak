@@ -10,8 +10,8 @@ Lately, I've been exploring AI integrations and modern developer tools to stay a
 Beyond code, I care deeply about emotional clarity, creative thinking, and positive energy, and I bring that into every project I touch. 🌱  
 
 🌍 Currently based in Istanbul  
-🧠 Passionate about learning through building, my curiosity is my roadmap  
-🌸 Building a life and a career I love — one commit at a time  
+🧠 Passionate about learning through building. my curiosity is my roadmap  
+🌸 Building a life and a career I love. one commit at a time  
 
 
 <!--
