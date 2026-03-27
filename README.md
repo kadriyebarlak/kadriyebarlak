@@ -5,9 +5,9 @@
 
 I'm a backend engineer with a passion for building high-impact, well-architected software.  
 
-Lately, I've been exploring AI integrations and modern developer tools to stay at the edge of technology.  
+I enjoy exploring the new possibilities of the AI era, using modern developer tools and AI-assisted workflows to build, learn, and solve problems more effectively.
 
-Beyond code, I care deeply about creative thinking, positive energy, and excitement to the problem space and I bring that into every project I touch. 🌱  
+Also, I care deeply about creative thinking, positive energy, and excitement to the problem space and I bring that into every project I touch. 🌱  
 
 🌍 Currently based in Istanbul  
 🧠 Passionate about learning through building. My curiosity is my roadmap.  
