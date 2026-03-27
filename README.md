@@ -10,8 +10,7 @@ I enjoy exploring the new possibilities of the AI era, using modern developer to
 Also, I care deeply about creative thinking, positive energy, and excitement to the problem space and I bring that into every project I touch. 🌱  
 
 🌍 Currently based in Istanbul  
-🧠 Passionate about learning through building. My curiosity is my roadmap.  
-🌸 Building a life and a career I love.
+🌸 Learning, building, and looking for a simpler, more meaningful way to work and live.
 
 
 <!--
